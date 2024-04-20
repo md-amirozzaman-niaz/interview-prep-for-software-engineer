@@ -14,8 +14,12 @@ Overloading in PHP provides means to dynamically create properties and methods.
   public __unset(string $name): void
 ```
 * Method overloading
-```php public __call(string $name, array $arguments): mixed```
-```php public static __callStatic(string $name, array $arguments): mixed```
+```php
+  public __call(string $name, array $arguments): mixed
+```
+```php 
+  public static __callStatic(string $name, array $arguments): mixed
+```
 ### (Late static bindings)[https://www.php.net/manual/en/language.oop5.late-static-bindings.php]
 ### (Scope Resolution Operator (::))[https://www.php.net/manual/en/language.oop5.paamayim-nekudotayim.php]
 ### (Type Juggling)[https://www.php.net/manual/en/language.types.type-juggling.php]
