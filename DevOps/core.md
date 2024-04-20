@@ -28,25 +28,25 @@ Sharing knowledge, code, and best practices is fundamental in DevOps. It facilit
 
 CI/CD is a set of practices and tools used to automate the process of integrating code changes into a shared repository, testing them, and then deploying them to production environments quickly and safely.
 
-Popular CI/CD tools include Jenkins, GitLab CI/CD, Travis CI, and CircleCI.
+Popular CI/CD tools include `Jenkins`, `GitLab CI/CD`, `Travis CI`, and `CircleCI`.
 
 ### Infrastructure as Code (IaC)
 
 IaC is the practice of managing and provisioning infrastructure through code and automation scripts. It enables consistent and repeatable infrastructure deployments, reduces manual errors, and promotes collaboration between development and operations teams.
 
-Popular IaC tools include Terraform, AWS CloudFormation, and Ansible.
+Popular IaC tools include `Terraform`, `AWS CloudFormation`, and `Ansible`.
 
 ### Configuration Management
 
 Configuration management involves automating the configuration and management of software and infrastructure components. It ensures consistency across environments and facilitates scalability and reliability.
 
-Popular configuration management tools include Puppet, Chef, and Ansible.
+Popular configuration management tools include `Puppet`, `Chef`, and `Ansible`.
 
 ### Monitoring and Logging
 
 Monitoring and logging are essential for gaining visibility into system performance, identifying issues, and troubleshooting problems quickly. It involves collecting, aggregating, and analyzing metrics and logs from various sources.
 
-Popular monitoring and logging tools include Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), and Splunk.
+Popular monitoring and logging tools include `Prometheus`, `Grafana`, `ELK Stack (Elasticsearch, Logstash, Kibana)`, and `Splunk`.
 
 ## Conclusion
 
